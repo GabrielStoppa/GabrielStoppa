@@ -30,4 +30,3 @@
 ## 
   
 <h3 align="center">REPOSITORIES<h3>
-![Snake animation](https://github.com/GabrielStoppa/GabrielStoppa/blob/output/github-contribution-grid-snake.svg)
