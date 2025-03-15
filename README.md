@@ -38,12 +38,5 @@
 ##
 
 <div align="center">
-  <h3>Contribuições 🐍</h3>
-  
-  ![Snake animation]([https://github.com/GabrielStoppa/GabrielStoppa/edit/main/](https://github.com/GabrielStoppa/GabrielStoppa/blob/main/snake.yml))
-  
-</div>
-
-<div align="center">
   <h3>Repositórios 📁</h3>
 </div>
