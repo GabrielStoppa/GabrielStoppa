@@ -40,7 +40,7 @@
 <div align="center">
   <h3>Contribuições 🐍</h3>
   
-  ![Snake animation](https://github.com/GabrielStoppa/GabrielStoppa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]([https://github.com/GabrielStoppa/GabrielStoppa/edit/main/](https://github.com/GabrielStoppa/GabrielStoppa/blob/main/snake.yml))
   
 </div>
 
