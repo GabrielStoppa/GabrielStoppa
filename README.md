@@ -22,7 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStoppa&layout=compact&langs_count=20&theme=nightowl&include_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielStoppa&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielStoppa&theme=nightowl" />
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=GabrielStoppa&layout=compact&langs_count=20&theme=nightowl&include_private=true"/>
 </div>
 
 ---
