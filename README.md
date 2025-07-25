@@ -1,20 +1,22 @@
-# Olá! Eu sou Gabriel Stoppa 👋
+<!-- README.md -->
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Estudante+e+Desenvolvedor+em+Formação!)](https://git.io/typing-svg)
+<h1 align="center">👋 Olá! Eu sou Gabriel Stoppa</h1>
+<h2 align="center">💻 Desenvolvedor Full Stack</h2>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Estudante+e+Desenvolvedor+em+Formação!)](https://git.io/typing-svg)
 
-## 🚀 Sobre mim
+<hr>
 
-🎓 Estudante e desenvolvedor em formação, sempre em busca de novos desafios e aprendizados no mundo da programação.
+<h3>🚀 Sobre mim</h3>
 
-💡 Apaixonado por tecnologia, desenvolvimento web e software.
+<ul>
+  <li>🎓 Estudante e desenvolvedor focado em construir aplicações modernas e escaláveis.</li>
+  <li>💡 Apaixonado por backend, APIs, automações e boas práticas de desenvolvimento.</li>
+  <li>🧰 Tecnologias: <strong>TypeScript, JavaScript (Node.js), React, NestJS, Prisma, PostgreSQL, HTML/CSS, Python</strong>.</li>
+  <li>🧪 Em constante evolução com foco em <strong>estrutura de dados, clean code</strong> e <strong>arquitetura de software</strong>.</li>
+</ul>
 
-📚 Atualmente estudando **C** e **C++**, além de aprimorar minhas habilidades em **JavaScript**, **PHP** e **Python**.
-
----
+<hr>
 
 ## 📊 GitHub Analytics
 
@@ -26,23 +28,43 @@
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+<h3>🧠 Tecnologias que uso</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,python" />
-</div>
+<table align="center">
+  <tr>
+    <td><strong>Linguagens</strong></td>
+    <td>TypeScript, JavaScript, Python</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, NestJS</td>
+  </tr>
+  <tr>
+    <td><strong>Banco de Dados</strong></td>
+    <td>PostgreSQL (Prisma), SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Outros</strong></td>
+    <td>Git, REST APIs, Linux, Docker (em aprendizado)</td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 📚 Tecnologias que estou estudando
+<h3>🎯 Objetivo</h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c" />
-</div>
+<p>
+Atuar como desenvolvedor Full Stack, contribuindo em projetos desafiadores, com foco em backend e integração de sistemas.
+Busco ambientes colaborativos onde eu possa evoluir profissionalmente e entregar soluções reais através da tecnologia.
+</p>
 
----
+<hr>
 
-## 📫 Entre em contato
+<h3>📫 Como me encontrar?</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/gabriel.stoppa_/" target="_blank">
@@ -57,6 +79,11 @@
 </div>
 
 ---
+
+<p>
+Fique à vontade para explorar meus projetos, deixar feedbacks ou entrar em contato para trocar ideias e colaborações!
+</p>
+
 
 ## 📁 Repositórios em Destaque
 
