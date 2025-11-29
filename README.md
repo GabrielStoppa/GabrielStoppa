@@ -3,14 +3,14 @@
 <h1 align="center">👋 Olá! Eu sou Gabriel Stoppa</h1>
 <h2 align="center">💻 Desenvolvedor Full Stack  e Engenheiro de IA</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Estudante+e+Desenvolvedor+em+Formação!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Estudante+de+Engenharia+de+IA!)](https://git.io/typing-svg)
 
 <hr>
 
 <h3>🚀 Sobre mim</h3>
 
 <ul>
-  <li>Engenharia de IA</li>
+  <li>Eterno aprendizado!</li>
   <li>💡 Apaixonado por backend, APIs, automações e boas práticas de desenvolvimento.</li>
   <li>🧰 Tecnologias: <strong>TypeScript, JavaScript (Node.js), React, NestJS, Prisma, PostgreSQL, HTML/CSS, Python</strong>.</li>
   <li>🧪 Em constante evolução com foco em <strong>estrutura de dados, clean code</strong> e <strong>arquitetura de software</strong>.</li>
